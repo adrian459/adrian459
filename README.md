@@ -1,9 +1,8 @@
 - ✨ Hi, I’m Adrian Arman 👋👋👋
 - 👀 I’m interested in Cryptocurrency, Cybersecurity, and AI
 - 🌱 I’m currently learning Artificial Intelligence 
-- ⚔️ I’m looking to collaborate on Mercedes-Benz Deutschland 🇩🇪
+- ⚔️ I’m looking to collaborate on Mercedes-Benz Deutschland
 - 📫 How to reach me || Twitter : @AdrianArman5 || Email : adrian.arman02@gmail.com
-- 🌏 I'm from : 🇮🇩
 
 <!---
 adrian459/adrian459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
