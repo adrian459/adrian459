@@ -1,6 +1,6 @@
 - ✨ Hi, I’m Adrian Arman 👋👋👋
-- 👀 I’m interested in Cryptocurrency, Cybersecurity, and AI
-- 🌱 I’m currently learning Artificial Intelligence 
+- 🎮 I’m interested in Cryptocurrency, Cybersecurity, and AI
+- 🎄 I’m currently learning Artificial Intelligence 
 - ⚔️ I’m looking to collaborate with Mercedes-Benz Deutschland
 - 📫 How to reach me || Twitter : @AdrianArman5 || Email : adrian.arman02@gmail.com
 
